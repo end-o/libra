@@ -6,7 +6,7 @@ The project is undergoing daily changes. Pull Requests will be reviewed and resp
 
 ## Motivation
 
-(Write your motivation for proposed changes here.)
+(My motivation is to link Libra cryptocurrency distribution of rewardable norms to teachers, students, parents, worker and customers as encounters and intersections with currency distributors occur. With the connection of owners of the currency and the personalities and characteristics that they meet with everyday, the distribution of value for time exchange allows for the learning curve of gestures and other actions or behaviors that coordinate with the inventory or stocks that make up the market share that currency represents to adopt the net force required for the currency to become more suited for exchanges by customers and workers and not just traders..)
 
 ### Have you read the [Contributing Guidelines on pull requests](https://github.com/libra/libra/blob/master/CONTRIBUTING.md#pull-requests)?
 
